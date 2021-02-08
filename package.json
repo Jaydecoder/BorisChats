@@ -7,15 +7,9 @@
     "start": "nodemon server/index.js & node client/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jaydecoder/BorisChats.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jaydecoder/BorisChats/issues"
-  },
-  "homepage": "https://github.com/Jaydecoder/BorisChats#readme"
+ 
+ 
 }
